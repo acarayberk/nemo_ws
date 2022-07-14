@@ -1,0 +1,24 @@
+[0.514s] Invoking command in '/home/ayberk/nemo_ws/src/path_finder': PYTHONPATH=/home/ayberk/nemo_ws/install/path_finder/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/path_finder build --build-base /home/ayberk/nemo_ws/build/path_finder/build install --prefix /home/ayberk/nemo_ws/install/path_finder --record /home/ayberk/nemo_ws/build/path_finder/install.log --single-version-externally-managed
+[0.674s] running egg_info
+[0.674s] writing ../../build/path_finder/path_finder.egg-info/PKG-INFO
+[0.675s] writing dependency_links to ../../build/path_finder/path_finder.egg-info/dependency_links.txt
+[0.675s] writing entry points to ../../build/path_finder/path_finder.egg-info/entry_points.txt
+[0.675s] writing requirements to ../../build/path_finder/path_finder.egg-info/requires.txt
+[0.675s] writing top-level names to ../../build/path_finder/path_finder.egg-info/top_level.txt
+[0.703s] reading manifest file '../../build/path_finder/path_finder.egg-info/SOURCES.txt'
+[0.703s] writing manifest file '../../build/path_finder/path_finder.egg-info/SOURCES.txt'
+[0.703s] running build
+[0.704s] running build_py
+[0.704s] running install
+[0.705s] running install_lib
+[0.706s] running install_data
+[0.706s] running install_egg_info
+[0.707s] removing '/home/ayberk/nemo_ws/install/path_finder/lib/python3.8/site-packages/path_finder-0.0.0-py3.8.egg-info' (and everything under it)
+[0.708s] Copying ../../build/path_finder/path_finder.egg-info to /home/ayberk/nemo_ws/install/path_finder/lib/python3.8/site-packages/path_finder-0.0.0-py3.8.egg-info
+[0.708s] running install_scripts
+[0.721s] Installing image_publisher script to /home/ayberk/nemo_ws/install/path_finder/lib/path_finder
+[0.721s] Installing image_subscriber script to /home/ayberk/nemo_ws/install/path_finder/lib/path_finder
+[0.721s] Installing path_publisher script to /home/ayberk/nemo_ws/install/path_finder/lib/path_finder
+[0.721s] Installing path_subscriber script to /home/ayberk/nemo_ws/install/path_finder/lib/path_finder
+[0.721s] writing list of installed files to '/home/ayberk/nemo_ws/build/path_finder/install.log'
+[0.735s] Invoked command in '/home/ayberk/nemo_ws/src/path_finder' returned '0': PYTHONPATH=/home/ayberk/nemo_ws/install/path_finder/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/path_finder build --build-base /home/ayberk/nemo_ws/build/path_finder/build install --prefix /home/ayberk/nemo_ws/install/path_finder --record /home/ayberk/nemo_ws/build/path_finder/install.log --single-version-externally-managed
